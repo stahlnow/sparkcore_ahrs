@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+            "follow_symlinks": true,
+			"path": "."
+		}
+	],
+
+    "build_systems":
+    [
+        {
+            "name": "spark.io make",
+            "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+            "cmd": ["make","APP=ahrs"],
+            "working_dir": "${project_path}/build"
+        }
+    ]
+}

@@ -1,0 +1,636 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pi",
+				"pitch"
+			],
+			[
+				"OUT",
+				"OUTPUT__FORMAT_TEXT"
+			],
+			[
+				"output",
+				"output_mode"
+			],
+			[
+				"status",
+				"status_led_pin"
+			],
+			[
+				"OUt",
+				"OUTPUT__MODE_ANGLES"
+			],
+			[
+				"DCM",
+				"DCM_Matrix"
+			],
+			[
+				"OUTPU",
+				"OUTPUT__MODE_ANGLES"
+			],
+			[
+				"Accel",
+				"Accel_Init"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"scy",
+				"scytale_encrypt"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"ASM",
+				"ASM_FLAGS"
+			],
+			[
+				"pl",
+				"players"
+			],
+			[
+				"sor",
+				"sorted_by_score"
+			],
+			[
+				"en",
+				"encoderPinB"
+			],
+			[
+				"send",
+				"sendOSCEncoder"
+			],
+			[
+				"computer",
+				"computerIPAddress"
+			],
+			[
+				"encod",
+				"encoderPos"
+			]
+		]
+	},
+	"build_system": "spark.io make",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Discover Packages"
+			],
+			[
+				"plugin",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set Syntax: ARM",
+				"Set Syntax: ARM Assembly"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/stahl/hw/spark/ahrs/inc/application.h",
+		"/home/stahl/hw/spark/ahrs/inc/spark_wiring.h",
+		"/home/stahl/hw/spark/ahrs/ahrs.sublime-project",
+		"/home/stahl/hw/spark/ahrs/build/make[1]",
+		"/home/stahl/hw/spark/ahrs/build/readme.md",
+		"/home/stahl/hw/spark/ahrs/inc/spark_wiring_ipaddress.h",
+		"/home/stahl/hw/spark/ahrs/src/spark_wiring_ipaddress.cpp",
+		"/home/stahl/eagle/Simple_SD_Audio_Player/firmware/main.c",
+		"/home/stahl/.watchteleboyrc",
+		"/home/stahl/temp/mpdscribble/doc/mpdscribble.conf",
+		"/home/stahl/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/stahl/hw/spark/ahrs/ahrs.sublime-build",
+		"/home/stahl/hw/spark/ahrs/applications/tinker/application.cpp",
+		"/home/stahl/hw/spark/ahrs/build/makefile",
+		"/home/stahl/hw/spark/ahrs/README.md",
+		"/home/stahl/hw/spark/ahrs/src/AHRS/build.mk",
+		"/home/stahl/hw/spark/ahrs/inc/main.h",
+		"/home/stahl/hw/spark/imu/inc/application.h",
+		"/home/stahl/hw/spark/ahrs/src/application.cpp",
+		"/home/stahl/hw/spark/core-firmware/src/application.cpp",
+		"/home/stahl/hw/spark/core-firmware/inc/main.h",
+		"/home/stahl/hw/spark/core-firmware/inc/application.h",
+		"/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/esptool.py",
+		"/home/stahl/builds/esptool/Makefile",
+		"/opt/Espressif/crosstool-NG/ct-ng",
+		"/opt/Espressif/crosstool-NG/scripts/crosstool-NG.sh",
+		"/opt/Espressif/crosstool-NG/scripts/build/companion_tools.sh",
+		"/opt/Espressif/crosstool-NG/scripts/build/companion_libs/100-gmp.sh",
+		"/opt/Espressif/crosstool-NG/Makefile",
+		"/opt/Espressif/crosstool-NG/lib/ct-ng.1.20.0/scripts/build/arch/xtensa.sh",
+		"/home/stahl/temp/esptool/README",
+		"/opt/Espressif/crosstool-NG/build.log",
+		"/opt/Espressif/crosstool-NG/scripts/crosstool-NG.sh.in",
+		"/home/stahl/hw/esp8266/pyesp8266/esp8266server.py",
+		"/home/stahl/hw/esp8266/esp_iot_sdk_v0.9.5/app/gen_misc.sh",
+		"/home/stahl/hw/esp8266/esp_iot_sdk_v0.9.5/app/gen_misc.",
+		"/home/stahl/hw/esp8266/release_note.txt",
+		"/home/stahl/hw/esp8266/License",
+		"/home/stahl/hw/spark/imu/README.md",
+		"/home/stahl/hw/spark/imu/imu.sublime-project",
+		"/home/stahl/hw/spark/imu/license.txt",
+		"/home/stahl/hw/spark/imu/build/core-firmware.bin",
+		"/home/stahl/hw/spark/imu/build/core-firmware.hex",
+		"/home/stahl/hw/spark/imu/src/main.cpp",
+		"/home/stahl/hw/spark/imu/build/makefile",
+		"/home/stahl/hw/spark/imu/inc/OSC/OSCData.h",
+		"/home/stahl/hw/spark/imu/inc/spark_disable_cloud.h",
+		"/home/stahl/hw/spark/imu/inc/usb_desc.h",
+		"/home/stahl/hw/spark/imu/src/build.mk",
+		"/home/stahl/hw/spark/imu/build/obj/src/OSC/OSCMatch.o.d",
+		"/home/stahl/hw/spark/imu/build/obj/src/spark_wiring_tcpclient.o.d",
+		"/home/stahl/hw/spark/imu/build/obj/src/OSC/OSCBundle.o.d",
+		"/home/stahl/hw/spark/imu/src/AHRS/Compass.c.bak",
+		"/home/stahl/hw/spark/imu/src/AHRS/Output.c.bak",
+		"/home/stahl/hw/spark/imu/src/AHRS/Sensors.c.bak",
+		"/home/stahl/hw/spark/imu/src/AHRS/Math.c.bak",
+		"/home/stahl/hw/spark/imu/src/AHRS/Razor_AHRS.c.bak",
+		"/home/stahl/hw/spark/imu/src/AHRS/DCM.c.bak",
+		"/home/stahl/hw/spark/imu/src/AHRS/build.mk",
+		"/home/stahl/hw/spark/imu/src/OSC/OSCMessage.cpp",
+		"/home/stahl/hw/spark/imu/src/OSC/build.mk",
+		"/home/stahl/hw/spark/imu/src/OSC/OSCMatch.c",
+		"/home/stahl/hw/spark/imu/inc/OSC/OSCMatch.h",
+		"/home/stahl/hw/spark/imu/src/OSC/OSCData.cpp",
+		"/home/stahl/hw/spark/imu/src/AHRS/DCM.c",
+		"/home/stahl/hw/spark/imu/src/AHRS/Math.c",
+		"/home/stahl/hw/spark/imu/src/AHRS/Output.c",
+		"/home/stahl/hw/spark/imu/src/AHRS/Compass.c",
+		"/home/stahl/hw/spark/imu/src/AHRS/Sensors.c",
+		"/home/stahl/hw/spark/imu/inc/spark_wiring.h",
+		"/home/stahl/hw/spark/osc/README.md",
+		"/home/stahl/hw/spark/osc/inc/main.h",
+		"/home/stahl/hw/spark/osc/inc/application.h",
+		"/home/stahl/hw/spark/osc/osc.sublime-project",
+		"/home/stahl/hw/spark/osc/inc/spark_wiring_ipaddress.h",
+		"/home/stahl/hw/spark/osc/build/makefile",
+		"/usr/arm-none-eabi/include/sys/types.h",
+		"/home/stahl/hw/spark/osc/CC3000_Host_Driver/socket.h",
+		"/home/stahl/hw/spark/osc/src/OSC/OSCBundle.cpp",
+		"/home/stahl/hw/spark/osc/inc/OSC/OSCMessage.h",
+		"/home/stahl/hw/spark/osc/src/OSC/OSCMessage.cpp",
+		"/home/stahl/hw/spark/osc/CC3000_Host_Driver/nvmem.c",
+		"/home/stahl/hw/spark/osc/CC3000_Host_Driver/cc3000_common.h",
+		"/home/stahl/hw/spark/osc/CC3000_Host_Driver/socket.c",
+		"/home/stahl/hw/spark/osc/CC3000_Host_Driver/wlan.c",
+		"/home/stahl/.config/sublime-text-2/Packages/C++/C++.sublime-build",
+		"/home/stahl/hw/spark/osc/build/.gitignore",
+		"/home/stahl/hw/spark/osc/osc.sublime-workspace",
+		"/home/stahl/.config/sublime-text-2/Packages/Makefile Improved/README.rst",
+		"/home/stahl/temp/caesar.py",
+		"/home/stahl/temp/ceasar.py",
+		"/home/stahl/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/stahl/.config/sublime-text-2/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/stahl/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/stahl/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/stahl/web/WAAX/examples/simpleosc/index.html",
+		"/home/stahl/web/WAAX/examples/mui/index.html",
+		"/home/stahl/web/WAAX/src/plug_ins/SimpleOsc/SimpleOsc.js",
+		"/home/stahl/web/WAAXTest/build/waax.js",
+		"/home/stahl/incoming/Untitled.txt",
+		"/home/stahl/web/WAAX/gulpfile.js",
+		"/home/stahl/web/WAAXTest/build/plug_ins/Triad.js",
+		"/home/stahl/web/WAAX/examples/examples.js",
+		"/home/stahl/web/WAAX/examples/fmk1/index.html",
+		"/home/stahl/web/WAAX/examples/impulse/index.html",
+		"/home/stahl/web/WAAX/examples/stereodelay/index.html",
+		"/home/stahl/web/WAAX/src/mui/mui-knob/mui-knob.html",
+		"/home/stahl/web/WAAX/src/waax.core.js",
+		"/home/stahl/web/WAAX/src/plug_ins/WXS1/wxs1.js",
+		"/home/stahl/web/WAAX/src/plug_ins/Noise/noise.js",
+		"/home/stahl/web/Flocking/docs/getting-started.md",
+		"/home/stahl/web/Flocking/flocking/flocking-scheduler.js",
+		"/home/stahl/temp/challenge/sql/code.sql",
+		"/home/stahl/temp/CHALLENGE",
+		"/home/stahl/web/WAAX/src/mui/mui.html",
+		"/home/stahl/web/WAAX/src/waax.util.js",
+		"/home/stahl/web/WAAX/src/ktrl.js",
+		"/home/stahl/web/WAAX/src/mui/mui-rack/mui-rack.html",
+		"/home/stahl/.cache/.fr-KPcOQ8/.data",
+		"/home/stahl/.cache/.fr-DwMgLK/.rdata",
+		"/home/stahl/.cache/.fr-hp1e8y/.text",
+		"/home/stahl/temp/zzz.pl",
+		"/home/stahl/temp/candle.pl",
+		"/home/stahl/incoming/iPh0n3",
+		"/home/stahl/web/paulhaller/ftp",
+		"/home/stahl/temp/pfff.pl",
+		"/home/stahl/temp/test.pl",
+		"/home/stahl/temp/knopf/lib/presets/p2.css"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"TO_DEG",
+			"output_angles",
+			"LED1",
+			"samples",
+			"STATUS_LED_PIN",
+			"_pitch",
+			"_roll",
+			"_yaw",
+			"_roll",
+			"_pitch",
+			"_roll",
+			"_pitch",
+			"_yaw",
+			"OUTPUT__STARTUP_STREAM_ON",
+			"DEBUG__NO_DRIFT_CORRECTION",
+			"drift",
+			"Drift_correction",
+			"output_errors",
+			"error",
+			"raw",
+			"uint16_t",
+			"uint",
+			"Read_Accel",
+			"Serial.print",
+			"Matrix_update",
+			"Matrix_Multiply",
+			"Matrix_update",
+			"multiply",
+			"LED",
+			"serial",
+			"bau",
+			"baudrate",
+			"Magn_Init",
+			"output_errors",
+			"init",
+			"OUTPUT__DATA_INTERVAL",
+			"long",
+			"I2C_Init",
+			"Read_Gyro",
+			"read_sensors",
+			"check_reset_calibration_session",
+			"output_calibration",
+			"x",
+			"read_sensors",
+			"Read_sensors",
+			"init",
+			"uint16_t",
+			"int",
+			"readChar",
+			"read_char",
+			"read",
+			"reset_sensor_fusion",
+			"STATUS_LED_PIN",
+			"led",
+			"APP",
+			"applications",
+			"Read_Gyro",
+			"read_sensors",
+			"reset_sensor_fusion",
+			"init_rotation_matrix",
+			"reset_sensor_fusion",
+			"reset_calibration_session_flag",
+			"check_reset_calibration_session",
+			"install",
+			"tgz",
+			"do_companion_tools_get",
+			"tarballs",
+			"wget",
+			"tools_get",
+			"tgz",
+			"tools",
+			"tools_get",
+			"wget",
+			"tarballs",
+			"do_companion_tools_get",
+			"tarballs",
+			"build",
+			"speed",
+			"curr_calibration_sensor",
+			"output_calibration",
+			"check_reset_calibration_session",
+			"output_calibration",
+			"check_reset_calibration_session",
+			"reset_calibration_session_flag",
+			"check_reset_calibration_session",
+			"output",
+			"check_reset_calibration_session",
+			"reset_calibration_session_flag",
+			"output_sensors",
+			"output_sensors_text",
+			"output_angles",
+			"A-R",
+			"#A-R",
+			"reset_sensor_fusion",
+			".f",
+			"compensate_sensor_errors",
+			"300",
+			"Euler_angles",
+			"OUTPUT__MODE_ANGLES",
+			"debug",
+			"Read_Accel",
+			"read_accel",
+			"address",
+			"Accel_Init",
+			"Init",
+			"init",
+			"Matrix_update",
+			"Matrix_Multiply",
+			"loop",
+			"Matrix_Multiply",
+			"Matrix_update",
+			"wall",
+			"Vector_Add",
+			"DEBUG__NO_DRIFT_CORRECTION",
+			"Omega",
+			"Matrix_update",
+			"output_errors",
+			"output_angles",
+			"Compass_Heading",
+			"Normalize",
+			"Kp_ROLLPITCH",
+			"OUTPUT__STARTUP_STREAM_ON",
+			"GRAVITY",
+			"ACCEL_X_OFFSET",
+			"ACCEL_X_MAX",
+			"static",
+			"Temporary_Matrix",
+			"Matrix_update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"status_led_pin",
+			"pitch",
+			"roll",
+			"pitch",
+			"yaw",
+			"int16_t",
+			"uint16_t",
+			"",
+			"_pitch",
+			"_roll",
+			"_yaw",
+			"Wire.read",
+			"Wire.write",
+			"'",
+			"\"",
+			"\"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 185.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"make",
+				"build/makefile"
+			],
+			[
+				"appli",
+				"inc/application.h"
+			],
+			[
+				"appl",
+				"src/application.cpp"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"proj",
+				"osc.sublime-project"
+			],
+			[
+				"ap",
+				"src/application.cpp"
+			],
+			[
+				"mak",
+				"build/makefile"
+			],
+			[
+				"",
+				"build/makefile"
+			],
+			[
+				"app",
+				"src/application.cpp"
+			],
+			[
+				"main",
+				"src/main.cpp"
+			],
+			[
+				"a",
+				"src/application.cpp"
+			],
+			[
+				"in",
+				"/home/stahl/web/WAAXTest/index.html"
+			],
+			[
+				"hea",
+				"/home/stahl/web/WAAX/src/waax.header.js"
+			],
+			[
+				"he",
+				"/home/stahl/web/WAAX/src/waax.header.js"
+			],
+			[
+				"ind",
+				"/home/stahl/web/WAAXTest/index.html"
+			],
+			[
+				"head",
+				"/home/stahl/web/WAAX/src/waax.header.js"
+			],
+			[
+				"plugin",
+				"/home/stahl/web/WAAXTest/build/plug_ins/Triad.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 601.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
